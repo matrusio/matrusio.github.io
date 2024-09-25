@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://matrusio.github.io/sitemap.matrusio.gz
+Sitemap: https://matrusio.github.io/app/sitemap.matrusio.gz
+Sitemap: https://matrusio.github.io/assets/sitemap.matrusio.gz
+Sitemap: https://matrusio.github.io/css/sitemap.matrusio.gz
+Sitemap: https://matrusio.github.io/data/sitemap.matrusio.gz
+Sitemap: https://matrusio.github.io/includes/sitemap.matrusio.gz
+Sitemap: https://matrusio.github.io/item/sitemap.matrusio.gz
+Sitemap: https://matrusio.github.io/src/sitemap.matrusio.gz
